@@ -7,4 +7,4 @@ Clean unwanted, spelled, strange parts and some random buy orders on backpack.tf
 
 2. **Open the Script**: Click [here](https://github.com/DaSimple619/Buy-Order-Cleaner/raw/main/userscript.user.js) to download the UserScript. Tampermonkey should automatically recognize the script and prompt you to install it. Confirm the installation.
 
-## Enjoy 
+3. Enjoy 
